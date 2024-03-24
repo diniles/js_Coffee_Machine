@@ -1,0 +1,90 @@
+hyperskill_project:
+  id: 220
+  ide_files: https://cogniterra.org/media/attachments/lesson/26127/additional_files.json
+  is_template_based: false
+  use_ide: true
+update_date: "Sun, 24 Mar 2024 14:25:51 UTC"
+stages:
+  - id: 1101
+    step: 17036
+    is_completed: true
+  - id: 1102
+    step: 17037
+    is_completed: true
+  - id: 1103
+    step: 17038
+    is_completed: true
+  - id: 1104
+    step: 17039
+    is_completed: true
+  - id: 1105
+    step: 17040
+    is_completed: false
+  - id: 1106
+    step: 17041
+    is_completed: false
+topics:
+  0:
+    - title: Introduction to JavaScript
+      theory_id: 8016
+    - title: Writing first program
+      theory_id: 8154
+    - title: Multi-line programs
+      theory_id: 8162
+  1:
+    - title: Comments
+      theory_id: 8170
+    - title: Naming variables
+      theory_id: 8364
+    - title: JavaScript Code Style
+      theory_id: 9916
+    - title: Declaring variables
+      theory_id: 8186
+    - title: Strings and numbers
+      theory_id: 8194
+    - title: Arithmetic operators
+      theory_id: 8372
+    - title: Functions
+      theory_id: 8388
+    - title: Boolean and Logical Operators
+      theory_id: 8471
+    - title: Type Conversion
+      theory_id: 8380
+    - title: Comparison Operators
+      theory_id: 8580
+    - title: Conditional Operators
+      theory_id: 8889
+    - title: Introduction to String
+      theory_id: 17747
+    - title: Basic string methods
+      theory_id: 17755
+  2:
+    - title: Defining functions
+      theory_id: 24012
+    - title: Anonymous function
+      theory_id: 26924
+    - title: Arrow Functions
+      theory_id: 8455
+  3:
+    - title: Scope of variables
+      theory_id: 9771
+    - title: WebStorm
+      theory_id: 36802
+  4:
+    - title: Array
+      theory_id: 16141
+    - title: Array creation
+      theory_id: 16356
+    - title: Multiple conditions. Switch...case statement
+      theory_id: 10689
+    - title: Increment and Decrement
+      theory_id: 9102
+    - title: "Loops: for and for...in"
+      theory_id: 9119
+    - title: "Loops: while and do...while"
+      theory_id: 9128
+    - title: Break and continue statements
+      theory_id: 9374
+  5:
+    - title: Template literals
+      theory_id: 8731
